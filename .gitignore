@@ -1,0 +1,15 @@
+# VS Code files and extensions
+.vscode/
+.vscode/extensions/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+AppData/
+*.bin
+
+# Data files (optional)
+*.csv
+data/
